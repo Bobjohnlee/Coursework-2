@@ -19,5 +19,6 @@ public class bintoFakeScript : MonoBehaviour
     {
 
         Debug.Log("hello");
+        Debug.Log("hello");
     }
 }
